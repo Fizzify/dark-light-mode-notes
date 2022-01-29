@@ -1,6 +1,10 @@
 # dark-light-mode-notes
  This is an Electron app specifically built for myself, it has a darkmode and lightmode toggler and it saves in your local storage. Feel free to use this with whatever you want.
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 ![1](https://user-images.githubusercontent.com/79361847/151659523-64f207d3-caf5-414f-bb28-a2bdbacc14c6.png)
 ![2](https://user-images.githubusercontent.com/79361847/151659527-b40e8864-6d5e-433c-84ec-9df9719bddb0.png)
