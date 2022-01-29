@@ -1,0 +1,24 @@
+body {
+  background-color: #222;
+  color: #fff;
+}
+
+nav {
+  background-color: #111;
+  color: #fff;
+}
+
+nav a {
+  color: #fff;
+}
+
+.btn {
+  background-color: transparent;
+  border-color: #fff;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #fff;
+  color: rgb(0, 174, 255);
+}
